@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "180498851714",
+    "project_id": "aiar-25d06",
+    "storage_bucket": "aiar-25d06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180498851714:android:29c3fa6d232b930244919b",
+        "android_client_info": {
+          "package_name": "Aiar.io"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk6nN9vFFspobpG1yjtm04BmT8wztzKgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180498851714:android:578f8979f8b2c02144919b",
+        "android_client_info": {
+          "package_name": "Robin.Do"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk6nN9vFFspobpG1yjtm04BmT8wztzKgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
